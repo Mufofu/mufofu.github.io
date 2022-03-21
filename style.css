@@ -1,0 +1,58 @@
+body {
+    width: 500px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    padding: 10px;
+    position: relative;
+    margin: auto;
+    
+}
+
+main {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    padding: 5px;
+    margin: 5px;
+}
+
+header {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    padding: 5px;
+    margin: 5px;
+}
+
+footer {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    padding: 5px;
+    margin: 5px;
+}
+
+nav {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    padding: 5px;
+    margin: 0px 0px 5px 0px;
+}
+
+section {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    padding: 5px;
+    margin: 5px;
+}
+
+aside {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgray;
+    padding: 5px;
+    margin: 5px;
+}
