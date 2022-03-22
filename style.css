@@ -12,6 +12,7 @@ main {
     border-style: solid;
     border-width: 2px;
     border-color: darkgray;
+    display: flex;
 }
 
 header {
@@ -25,27 +26,22 @@ nav {
     border-width: 2px;
     border-color: darkgray;
     padding: 5px;
-    margin: 0px 0px 5px 0px;
 }
 
 section {
     border-style: solid;
     border-width: 2px;
     border-color: darkgray;
-    float: left;
-    width: 55%;
-    height: 100px;
     background-color: antiquewhite;
+    flex: 1;
 }
 
 aside {
     border-style: solid;
     border-width: 2px;
     border-color: darkgray;
-    float: right;
-    width: 40%;
-    height: 100px;
     background-color: azure;
+    flex: 1;
 }
 
 footer {
